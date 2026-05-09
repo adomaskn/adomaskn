@@ -12,10 +12,10 @@ I am currently studying in Kaunas University of Technology and trying to get my 
 
 | Tier | Languages / Programs |
 |-----:|-----------|
-| Best at | Python, Excel |
-| Fully comfortable | Matlab, AMPL, SQL |
-| Have decent knowledge | Java, R, REPEAT |
-| Tried out before | JavaScript, CSS, HTML, Kotlin |
+| Best at | Python, Excel, TypeScript |
+| Fully comfortable | Matlab, SQL |
+| Have decent knowledge | Java, R, React |
+| Tried out before | JavaScript, CSS, HTML, Kotlin, AMPL, REPEAT |
 <!--
 **adomaskn/adomaskn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
